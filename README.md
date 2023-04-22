@@ -7,7 +7,7 @@ Polygon links of the problems can be found here: <a href="https://github.com/mda
 
 <h1>Editorial</h1>
 
-<h3>A. Bauet Day <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a></h3>
+<h3>A. Bauet Day </h3>
 <p>
 The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>. This was a giveway problem, you just need to print two birthday in given format according to their year.
 </p>
