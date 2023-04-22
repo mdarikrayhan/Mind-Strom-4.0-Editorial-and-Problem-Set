@@ -12,3 +12,37 @@ Polygon links of the problems can be found here: <a href="https://github.com/mda
 The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>. This was a giveway problem, you just need to print two birthday in given format according to their year.
 </p>
 
+<h2>B.Beautiful Prime(Easy Version)</h2>
+<p>
+The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>. This was also a giveway problem, Here the task is to print the prime<sup>th</sup> prime number. Example if n=3 then first 3 prime numbers are 2,3,5 and 2<sup>th</sup>,3<sup>th</sup>and 5<sup>th</sup> prime numbers are 3,5,11
+</p>
+
+<h2>C.Beautiful Prime(Hard Version)</h2>
+<p>
+
+</p>
+
+<h2>D.Sindbad and Monster</h2>
+<p>
+
+</p>
+
+<h2>E.Temple Run</h2>
+<p>
+
+</p>
+
+<h2>F.Temple run once again:</h2>
+<p>
+
+</p>
+
+<h2>G.Best Friend Again:</h2>
+<p>
+
+</p>
+
+<h2>H.CG Code and Life:</h2>
+<p>
+
+</p>
