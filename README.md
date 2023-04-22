@@ -25,8 +25,7 @@ The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan
 
 <h3>D.Sindbad and Monster</h3>
 <p>
-The problem was set by <a href="">Tarique Abid</a>.
-Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/4.Sindbad%20and%20Monster">D.Sindbad and Monster</a>
+The problem was set by <a href="">Tarique Abid</a>.Sindbad and his sailors need to determine if they can stay safe on an island with a specific size, considering tunnels between islands connected by secret doors. To solve this, we perform prime factorization on the island size and calculate the number and sum of divisors. Then, we compare these values with the given constraints. If they meet the criteria and there's no overflow, Sindbad and his sailors can stay safe. The time complexity of the solution is O(q * sqrt(m)), where q is the number of test cases and m is the maximum island size. Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/4.Sindbad%20and%20Monster">D.Sindbad and Monster</a>
 </p>
 
 <h3>E.Temple Run</h3>
@@ -37,8 +36,8 @@ Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial
 
 <h3>F.Temple run once again</h3>
 <p>
-The problem was set by <a href="">Tarique Abid</a>.
-Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/6.Temple%20run%20once%20again">F.Temple run once again</a>
+The problem was set by <a href="">Tarique Abid</a>.To solve this problem, we can use the concept of Euler's Totient Function and GCD Sum. Euler's Totient Function calculates the count of numbers that are coprime with N, where N is the distance of the den from home. This can be precomputed and stored in an array for efficiency. The GCD Sum is the sum of N times the Totient Function value for all divisors of N.
+Using the precomputed values of Totient Function and GCD Sum, we can determine if Cinderella can reach her den safely. If the computed GCD Sum value for N is greater than or equal to the total number of obstacles M, it indicates that Cinderella can safely reach her den by transferring obstacles from one segment to another. Otherwise, she won't be able to reach her den safely. Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/6.Temple%20run%20once%20again">F.Temple run once again</a>
 </p>
 
 <h3>G.Best Friend Again</h3>
