@@ -9,5 +9,5 @@ Polygon links of the problems can be found here: <a href="https://github.com/mda
 
 <h3>Bauet Day</h3>
 <p>
-The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>
+The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>. This was a giveway problem, you just need to print two birthday according to their year.
 </p>
