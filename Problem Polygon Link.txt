@@ -1,15 +1,15 @@
-1st: https://polygon.codeforces.com/p9q2xcM/mdarikrayhan/bauetdayy
+1.Bauet Day: https://polygon.codeforces.com/p9q2xcM/mdarikrayhan/bauetdayy
 
-2nd: https://polygon.codeforces.com/p915wuU/mdarikrayhan/leastbeautifulprime
+2.Beautiful Prime(Easy Version): https://polygon.codeforces.com/p915wuU/mdarikrayhan/leastbeautifulprime
 
-3rd: https://polygon.codeforces.com/p4N5R2l/mdarikrayhan/mostbeautifulprime
+3.Beautiful Prime(Hard Version): https://polygon.codeforces.com/p4N5R2l/mdarikrayhan/mostbeautifulprime
 
-4th: https://polygon.codeforces.com/p0uQMEa/mdarikrayhan/sindabadandmonsters
+4.Sindbad and Monster: https://polygon.codeforces.com/p0uQMEa/mdarikrayhan/sindabadandmonsters
 
-5th: https://polygon.codeforces.com/p4f98Tl/mdarikrayhan/templerun
+5.Temple Run: https://polygon.codeforces.com/p4f98Tl/mdarikrayhan/templerun
 
-6th: https://polygon.codeforces.com/p1VxJf2/mdarikrayhan/templerunonceagain
+6.Temple run once again: https://polygon.codeforces.com/p1VxJf2/mdarikrayhan/templerunonceagain
 
-7th: https://polygon.codeforces.com/p7kcrMT/mdarikrayhan/bestfriendagain
+7.Best Friend Again: https://polygon.codeforces.com/p7kcrMT/mdarikrayhan/bestfriendagain
 
-8th: https://polygon.codeforces.com/p9W0It6/mdarikrayhan/cgcodelove
+8.CG Code and Life: https://polygon.codeforces.com/p9W0It6/mdarikrayhan/cgcodelove
