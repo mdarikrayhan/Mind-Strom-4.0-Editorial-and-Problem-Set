@@ -49,7 +49,7 @@ The problem was set by <a href="https://github.com/MomenulHaque50">Md. Momenul H
 The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>. This was also a giveway problem,Here you just need to find the area of a triangle given it's side. But the sides of the triangle are large so you need to use long double. Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/8.CG%20Code%20and%20Life">H.CG Code and Life</a>
 </p>
 
-<h1>Judge</h1>
+<h1>Judges</h1>
 <p>
 Special thanks to <a href="https://github.com/Bristi47">Bristi Rani Roy</a> and <a href="https://github.com/redoanul1995">Redoanul Haque Roni</a>, distinguished teachers and judges of this programming contest, your expertise and passion are truly exceptional. 
 </p>
