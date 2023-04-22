@@ -25,16 +25,19 @@ The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan
 
 <h3>D.Sindbad and Monster</h3>
 <p>
+The problem was set by <a href="">Tarique Abid</a>.
 Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/4.Sindbad%20and%20Monster">D.Sindbad and Monster</a>
 </p>
 
 <h3>E.Temple Run</h3>
 <p>
+The problem was set by <a href="">Tarique Abid</a>.
 Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/5.Temple%20Run">E.Temple Run</a>
 </p>
 
 <h3>F.Temple run once again</h3>
 <p>
+The problem was set by <a href="">Tarique Abid</a>.
 Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/6.Temple%20run%20once%20again">F.Temple run once again</a>
 </p>
 
