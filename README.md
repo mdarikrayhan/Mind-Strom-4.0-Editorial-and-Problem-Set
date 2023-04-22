@@ -36,7 +36,7 @@ Using the precomputed values of Totient Function and GCD Sum, we can determine i
 
 <h3>F.Temple run once again</h3>
 <p>
-The problem was set by <a href="">Tarique Abid</a>.Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/6.Temple%20run%20once%20again">F.Temple run once again</a>
+The problem was set by <a href="">Tarique Abid</a>.The problem asks to find the minimum size of cubes that Cinderella needs to fill all the holes with given heights. You need to use  binary search to find the lower bound of the optimal cube height. First calculate the total number of cubes required for a given cube height, and then perform binary search to find the lower bound. If it is possible to fill all the holes with the given number of cubes, it outputs the minimum cube height; otherwise, it outputs -1. The time complexity of the solution is O(log N), where N is the number of holes.Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/6.Temple%20run%20once%20again">F.Temple run once again</a>
 </p>
 
 <h3>G.Best Friend Again</h3>
