@@ -30,14 +30,13 @@ The problem was set by <a href="">Tarique Abid</a>.Sindbad and his sailors need 
 
 <h3>E.Temple Run</h3>
 <p>
-The problem was set by <a href="">Tarique Abid</a>.
-Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/5.Temple%20Run">E.Temple Run</a>
+The problem was set by <a href="">Tarique Abid</a>.To solve this problem, we can use the concept of Euler's Totient Function and GCD Sum. Euler's Totient Function calculates the count of numbers that are coprime with N, where N is the distance of the den from home. This can be precomputed and stored in an array for efficiency. The GCD Sum is the sum of N times the Totient Function value for all divisors of N.
+Using the precomputed values of Totient Function and GCD Sum, we can determine if Cinderella can reach her den safely. If the computed GCD Sum value for N is greater than or equal to the total number of obstacles M, it indicates that Cinderella can safely reach her den by transferring obstacles from one segment to another. Otherwise, she won't be able to reach her den safely. Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/5.Temple%20Run">E.Temple Run</a>
 </p>
 
 <h3>F.Temple run once again</h3>
 <p>
-The problem was set by <a href="">Tarique Abid</a>.To solve this problem, we can use the concept of Euler's Totient Function and GCD Sum. Euler's Totient Function calculates the count of numbers that are coprime with N, where N is the distance of the den from home. This can be precomputed and stored in an array for efficiency. The GCD Sum is the sum of N times the Totient Function value for all divisors of N.
-Using the precomputed values of Totient Function and GCD Sum, we can determine if Cinderella can reach her den safely. If the computed GCD Sum value for N is greater than or equal to the total number of obstacles M, it indicates that Cinderella can safely reach her den by transferring obstacles from one segment to another. Otherwise, she won't be able to reach her den safely. Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/6.Temple%20run%20once%20again">F.Temple run once again</a>
+The problem was set by <a href="">Tarique Abid</a>.Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/6.Temple%20run%20once%20again">F.Temple run once again</a>
 </p>
 
 <h3>G.Best Friend Again</h3>
