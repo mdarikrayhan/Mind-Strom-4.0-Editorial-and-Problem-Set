@@ -20,7 +20,7 @@ The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan
 
 <h3>C.Beautiful Prime(Hard Version)</h3>
 <p>
-Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/3.Beautiful%20Prime(Hard%20Version)">C.Beautiful Prime(Hard Version)</a>
+The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>.The problem is similer to B but the constrains are hard. You need to use bitwise sieve to solve the problem. Refer to this link for the algorithm: <a href="https://www.shafaetsplanet.com/?p=855">Bitwise Sieve</a>. Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/3.Beautiful%20Prime(Hard%20Version)">C.Beautiful Prime(Hard Version)</a>
 </p>
 
 <h3>D.Sindbad and Monster</h3>
