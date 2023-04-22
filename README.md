@@ -40,10 +40,10 @@ Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial
 
 <h3>G.Best Friend Again</h3>
 <p>
-Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/7.Best%20Friend%20Again">G.Best Friend Again</a>
+The problem was set by <a href="https://github.com/MomenulHaque50">Md. Momenul Haque</a>.In this problem the task was to replace the words given word. But you need to be careful while replacing about capitilization. Because the AI can Detect both Momenul and momenul as same. No more hints :-/ .Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/7.Best%20Friend%20Again">G.Best Friend Again</a>
 </p>
 
 <h3>H.CG Code and Life</h3>
 <p>
-Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/8.CG%20Code%20and%20Life">H.CG Code and Life</a>
+The problem was set by <a href="https://github.com/mdarikrayhan">Md. Arik Rayhan</a>. This was also a giveway problem,Here you just need to find the area of a triangle given it's side. But the sides of the triangle are large so you need to use long double. Solution link: <a href="https://github.com/mdarikrayhan/Mind-Strom-4.0-Editorial-and-Problem-Set/tree/main/Solution/8.CG%20Code%20and%20Life">H.CG Code and Life</a>
 </p>
